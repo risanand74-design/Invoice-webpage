@@ -1,0 +1,11 @@
+streamlit>=1.37.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+# Add your parser deps here, for example:
+# pdfplumber
+# pytesseract
+# opencv-python
+# pypdf
+# pillow
+# camelot-py
+# tabula-py
