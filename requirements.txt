@@ -9,3 +9,11 @@ openpyxl>=3.1.0
 # pillow
 # camelot-py
 # tabula-py
+streamlit>=1.37.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+pdfplumber>=0.11.0
+pillow>=10.0.0
+# Enable these only if your host has the system binaries:
+# pytesseract
+# pdf2image
